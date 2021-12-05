@@ -1,0 +1,7 @@
+#index:
+#  path: /
+#   controller: App\Controller\questionController::homepage
+
+#question_show:
+#   path: /{question}
+#    controller: App\Controller\questionController::question_show
